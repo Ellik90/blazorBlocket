@@ -1,4 +1,4 @@
-namespace blazorBlocket.Data;
+namespace BlazorBlocket.Data;
 
 public class WeatherForecast
 {
